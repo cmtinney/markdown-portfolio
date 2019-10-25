@@ -1,1 +1,1 @@
-[Cake Kitty] (http://www.cakekitty.com)
+[Cake Kitty](http://www.cakekitty.com)
